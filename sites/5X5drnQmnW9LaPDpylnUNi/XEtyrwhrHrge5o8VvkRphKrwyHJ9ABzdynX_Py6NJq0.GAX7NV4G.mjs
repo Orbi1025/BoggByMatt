@@ -1258,8 +1258,8 @@ var He = {
                                     },
                                     children: r(xr, {
                                       ACbcH4bn0: 17,
-                                      DvQBipYeb: "0xcomingsoon",
-                                      FRpg2PxcG: "0xcomingsoon",
+                                      DvQBipYeb: "0x377848080A45F88ea818435137822Ff0009743eA",
+                                      FRpg2PxcG: "0x377848080A45F88ea818435137822Ff0009743eA",
                                       height: "100%",
                                       id: "mn76V2yK_",
                                       iroNXaN6O: "rgb(0, 0, 0)",
@@ -1378,7 +1378,7 @@ var He = {
                               }),
                             }),
                             r(w, {
-                              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                              href: "https://dexscreener.com/ethereum/0x377848080A45F88ea818435137822Ff0009743eA",
                               children: r(k, {
                                 className: "framer-19sav4e framer-lux5qc",
                                 "data-border": !0,
@@ -1560,7 +1560,7 @@ var He = {
                                     whileHover: X,
                                     children: r(S, {
                                       hCHXaDtKD:
-                                        "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                        "https://www.dextools.io/app/en/ether/pair-explorer/0x377848080A45F88ea818435137822Ff0009743eA",
                                       height: "100%",
                                       id: "Co3YSl7M2",
                                       layoutId: "Co3YSl7M2",
@@ -4989,7 +4989,7 @@ var He = {
                                           children: [
                                             "Go to exchange -  ",
                                             r(w, {
-                                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x377848080A45F88ea818435137822Ff0009743eA",
                                               openInNewTab: !0,
                                               smoothScroll: !1,
                                               children: r("a", {
@@ -5507,8 +5507,8 @@ var He = {
                                 },
                                 children: r(xr, {
                                   ACbcH4bn0: 17,
-                                  DvQBipYeb: "0xcomingsoon",
-                                  FRpg2PxcG: "0xcomingsoon",
+                                  DvQBipYeb: "0x377848080A45F88ea818435137822Ff0009743eA",
+                                  FRpg2PxcG: "0x377848080A45F88ea818435137822Ff0009743eA",
                                   height: "100%",
                                   id: "pQnQGQqqb",
                                   iroNXaN6O: "rgb(0, 0, 0)",
@@ -5722,7 +5722,7 @@ var He = {
                       children: r(Wr, {
                         ah9qjiq38: 10,
                         FTpeBrC3k:
-                          "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                          "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x377848080A45F88ea818435137822Ff0009743eA",
                         height: "100%",
                         id: "FiGsct4Af",
                         lADySZ6HS: "rgba(18, 18, 18, 0.15)",

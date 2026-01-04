@@ -663,7 +663,7 @@ var We = { damping: 35, delay: 0, mass: 1, stiffness: 400, type: "spring" },
                         withExternalLayout: !0,
                       }),
                       e(R, {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x377848080A45F88ea818435137822Ff0009743eA",
                         children: e(Ve, {
                           className: "framer-5mp4wm framer-3gv4az",
                           "data-border": !0,
