@@ -1774,7 +1774,7 @@ var He = {
                       ],
                     }),
                     r(w, {
-                      href: "https://pfp.bogg.club/",
+                      href: "https://pfp.boggmattfurie.vip",
                       children: r(k, {
                         className: "framer-1bz98jg framer-lux5qc",
                         "data-border": !0,
@@ -3937,7 +3937,7 @@ var He = {
                             }),
                           }),
                           r(w, {
-                            href: "https://etherscan.io",
+                            href: "https://etherscan.io/tx/0x5f01078f75fd8f9a741e1ad5cd142139687aa28de648a17b61905dfe5adb4130",
                             children: r(k, {
                               className: "framer-sdu5g8 framer-lux5qc",
                               "data-border": !0,

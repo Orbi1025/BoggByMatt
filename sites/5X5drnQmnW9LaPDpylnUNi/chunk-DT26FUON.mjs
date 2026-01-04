@@ -868,7 +868,7 @@ var We = { damping: 35, delay: 0, mass: 1, stiffness: 400, type: "spring" },
                                     "var(--extracted-r6o4lv, rgb(255, 255, 255))",
                                 },
                                 children: e(R, {
-                                  href: "https://pfp.bogg.club/",
+                                  href: "https://pfp.boggmattfurie.vip",
                                   openInNewTab: !0,
                                   smoothScroll: !1,
                                   children: e(r.a, {
