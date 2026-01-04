@@ -1281,7 +1281,7 @@ var He = {
                           className: "framer-jwgh8f",
                           children: [
                             r(w, {
-                              href: "https://x.com/bogg_meme",
+                              href: "https://x.com/Bogg_MattFurie",
                               openInNewTab: !0,
                               children: r(k, {
                                 className: "framer-1xxryau framer-lux5qc",
@@ -1330,7 +1330,7 @@ var He = {
                               }),
                             }),
                             r(w, {
-                              href: "https://t.me/BoggMeme",
+                              href: "https://t.me/Bogg_MattFurie",
                               children: r(k, {
                                 className: "framer-yyihay framer-lux5qc",
                                 "data-border": !0,
@@ -4770,7 +4770,7 @@ var He = {
                                                 "uppercase",
                                             },
                                             children:
-                                              "Drop BNB in deh!",
+                                              "Drop ETH in deh!",
                                           }),
                                         }),
                                       },
@@ -4793,7 +4793,7 @@ var He = {
                                               "uppercase",
                                           },
                                           children:
-                                            "Drop BNB in deh!",
+                                            "Drop ETH in deh!",
                                         }),
                                       }),
                                       className: "framer-1yt3lau",
@@ -4820,7 +4820,7 @@ var He = {
                                                 "rgb(38, 38, 38)",
                                             },
                                             children:
-                                              "Purchase BNB or send BNB to your new wallet from an exchange.",
+                                              "Purchase ETH or send ETH to your new wallet from an exchange.",
                                           }),
                                         }),
                                       },
@@ -4840,7 +4840,7 @@ var He = {
                                               "rgb(38, 38, 38)",
                                           },
                                           children:
-                                            "Purchase BNB or send BNB to your new wallet from an exchange.",
+                                            "Purchase ETH or send ETH to your new wallet from an exchange.",
                                         }),
                                       }),
                                       className: "framer-1txjxul",
@@ -4941,7 +4941,7 @@ var He = {
                                                   "rgb(38, 38, 38)",
                                               },
                                               children:
-                                                "SWAP YUH BNB FUH $BOGG",
+                                                "SWAP YUH ETH FUH $BOGG",
                                             }),
                                           }),
                                         },
@@ -4963,7 +4963,7 @@ var He = {
                                               "--framer-text-color":
                                                 "rgb(38, 38, 38)",
                                             },
-                                            children: "SWAP YUH BNB FUH $BOGG",
+                                            children: "SWAP YUH ETH FUH $BOGG",
                                           }),
                                         }),
                                         className: "framer-oia5vh",
@@ -4997,10 +4997,10 @@ var He = {
                                                   "framer-styles-preset-825om3",
                                                 "data-styles-preset":
                                                   "eOSHOegwe",
-                                                children: "pancakeswap",
+                                                children: "Uniswap",
                                               }),
                                             }),
-                                            " and connect your wallet. Convert BNB to $BOGG",
+                                            " and connect your wallet. Convert ETH to $BOGG",
                                           ],
                                         }),
                                       }),
@@ -5402,7 +5402,7 @@ var He = {
                             className: "framer-pyjrkt",
                             children: [
                               r(w, {
-                                href: "https://t.me/BoggMeme",
+                                href: "https://t.me/Bogg_MattFurie",
                                 children: r(k, {
                                   className: "framer-1vgy4rv framer-lux5qc",
                                   "data-border": !0,
@@ -5423,7 +5423,7 @@ var He = {
                                 }),
                               }),
                               r(w, {
-                                href: "https://x.com/bogg_meme",
+                                href: "https://x.com/Bogg_MattFurie",
                                 openInNewTab: !0,
                                 children: r(k, {
                                   className: "framer-141p044 framer-lux5qc",

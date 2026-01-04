@@ -523,7 +523,7 @@ var We = { damping: 35, delay: 0, mass: 1, stiffness: 400, type: "spring" },
                                     "var(--extracted-r6o4lv, rgb(255, 255, 255))",
                                 },
                                 children: e(R, {
-                                  href: "https://x.com/bogg_meme",
+                                  href: "https://x.com/Bogg_MattFurie",
                                   openInNewTab: !0,
                                   smoothScroll: !1,
                                   children: e(r.a, {
@@ -569,7 +569,7 @@ var We = { damping: 35, delay: 0, mass: 1, stiffness: 400, type: "spring" },
                                     "var(--extracted-r6o4lv, rgb(255, 255, 255))",
                                 },
                                 children: e(R, {
-                                  href: "https://t.me/BoggMeme",
+                                  href: "https://t.me/Bogg_MattFurie",
                                   openInNewTab: !0,
                                   smoothScroll: !1,
                                   children: e(r.a, {
