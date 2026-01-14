@@ -523,7 +523,7 @@ var We = { damping: 35, delay: 0, mass: 1, stiffness: 400, type: "spring" },
                                     "var(--extracted-r6o4lv, rgb(255, 255, 255))",
                                 },
                                 children: e(R, {
-                                  href: "https://x.com/Bogg_MattFurie",
+                                  href: "https://x.com/BoggbyMatt",
                                   openInNewTab: !0,
                                   smoothScroll: !1,
                                   children: e(r.a, {
@@ -569,7 +569,7 @@ var We = { damping: 35, delay: 0, mass: 1, stiffness: 400, type: "spring" },
                                     "var(--extracted-r6o4lv, rgb(255, 255, 255))",
                                 },
                                 children: e(R, {
-                                  href: "https://t.me/Bogg_MattFurie",
+                                  href: "https://t.me/BoggbyMatt",
                                   openInNewTab: !0,
                                   smoothScroll: !1,
                                   children: e(r.a, {
@@ -663,7 +663,7 @@ var We = { damping: 35, delay: 0, mass: 1, stiffness: 400, type: "spring" },
                         withExternalLayout: !0,
                       }),
                       e(R, {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x377848080A45F88ea818435137822Ff0009743eA",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                         children: e(Ve, {
                           className: "framer-5mp4wm framer-3gv4az",
                           "data-border": !0,
